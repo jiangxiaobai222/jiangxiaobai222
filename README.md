@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jiangxiaobai222 or can call me Xiaobai(小白)
-- 👀 I’m interested in CV aduio VR AR
+- 👀 I’m interested in Speech, Audio and LLM...
 - 🌱 I’m currently learning Machine Learning
 -     contact by reviewing here or sending emial to 3403316092@qq.com 
 
